@@ -1,4 +1,4 @@
-CBMC=../cbmc
+CBMC=../../cbmc/
 2LS=../2ls
 JBMC=../cbmc
 YEAR=2018

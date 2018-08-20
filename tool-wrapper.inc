@@ -6,7 +6,7 @@
 
 declare -A OPTIONS
 OPTIONS["label"]="--error-label"
-OPTIONS["unreach_call"]=""
+OPTIONS["unreach_call"]="--full-slice"
 OPTIONS["termination"]=""
 OPTIONS["overflow"]="--signed-overflow-check --no-assertions"
 OPTIONS["memsafety"]="--pointer-check --memory-leak-check --bounds-check --no-assertions"
